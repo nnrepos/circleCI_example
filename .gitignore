@@ -1,0 +1,10 @@
+#ignore virtualenv
+/Include
+/Lib
+/Scripts
+/tcl
+#others
+/.pytest_cache
+/__pycache__
+/.coverage
+calc.pyc
