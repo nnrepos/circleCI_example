@@ -23,4 +23,4 @@ jobs:
           command: |
             . circle/bin/activate
             #flake8 --exclude=circle* --statistics
-            pytest -v --cov=calculator\test_calc.py
+            pytest -v --cov=calculato
