@@ -22,5 +22,5 @@ jobs:
           name: run tests
           command: |
             . circle/bin/activate
-            flake8 --exclude=circle* --statistics
+            #flake8 --exclude=circle* --statistics
             pytest -v --cov=calculator\test_calc.py
