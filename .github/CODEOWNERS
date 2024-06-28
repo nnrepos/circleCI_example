@@ -1,1 +1,11 @@
+# no owner for everything, shouldn't affect ownership.
+*
+
+# newlines
+
 LICE*   @nnrepos
+# more comments haahlkj124***J 91md91
+some_123_dir/myDIR/ @nnrepos
+# no owner for this file.
+some_123_dir/myDIR/nope.avi
+*cal* @nnrepos
